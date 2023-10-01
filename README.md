@@ -1,4 +1,4 @@
-# How-to-add-SMTP-relay-to-php-mail-function
+# How to add SMTP relay to php mail function on PEAR
 
 This is an example, that how can you add SMTP relay in your php mail() function. There are some points you have note:
 
